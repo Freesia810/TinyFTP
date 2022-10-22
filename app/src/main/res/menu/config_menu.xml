@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/applyconfig"
+        android:title="@string/apply_config" />
+    <item
+        android:id="@+id/removeconfig"
+        android:title="@string/delete_config" />
+    <item
+        android:id="@+id/updateconfig"
+        android:title="@string/update_config" />
+</menu>

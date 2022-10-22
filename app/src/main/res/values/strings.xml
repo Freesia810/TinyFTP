@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TinyFTP</string>
+    <string name="add_a_new_server">Add a new server</string>
+    <string name="server_host">Server Host</string>
+    <string name="server_port">Server port</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="a_tiny_ftp_client">A tiny FTP client</string>
+    <string name="tiny_ftp" translatable="false">Tiny FTP</string>
+    <string name="repository">Repository</string>
+    <string name="settings">Settings</string>
+    <string name="apply_config">Apply Config</string>
+    <string name="delete_config">Delete Config</string>
+    <string name="update_config">Update Config</string>
+    <string name="open">Open</string>
+    <string name="rename">Rename</string>
+    <string name="download">Download</string>
+    <string name="delete">Delete</string>
+    <string name="about">About</string>
+    <string name="configs" >Configs</string>
+    <string name="yes_no_apply_config">Do you want to apply the config?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="main_config">Main config</string>
+    <string name="apply">Apply</string>
+    <string name="config">config</string>
+    <string name="delete_config_ss">The config has been deleted</string>
+    <string name="apply_yy">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_conf_fail">Failed to update the config</string>
+    <string name="error">Error</string>
+    <string name="conf_saved">The config has been updated</string>
+    <string name="upload_ok">The upload task completed</string>
+    <string name="download_ok">The download task completed</string>
+    <string name="refresh_fail">Refresh failed</string>
+    <string name="do_fail">Failed</string>
+    <string name="io_err">Read/Write failed</string>
+    <string name="add_conf_fail">Failed to add the config</string>
+    <string name="add_conf_fail_same">Failed to add the config because of the same config</string>
+    <string name="nav_header_desc" >icon</string>
+    <string name="please_add_conf">Please add a config</string>
+    <string name="choose_conf">Choose a config</string>
+    <string name="no_config">No config was chosen so you must do by yourself</string>
+    <string name="about_info">Please contact me if you have any problem.</string>
+
+</resources>
